@@ -1,0 +1,14 @@
+c:\users\yasura\documents\visual studio 2010\Projects\organizer\organizer\bin\Debug\organizer.exe
+c:\users\yasura\documents\visual studio 2010\Projects\organizer\organizer\bin\Debug\organizer.pdb
+c:\users\yasura\documents\visual studio 2010\Projects\organizer\organizer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\yasura\documents\visual studio 2010\Projects\organizer\organizer\obj\x86\Debug\organizer.Form1.resources
+c:\users\yasura\documents\visual studio 2010\Projects\organizer\organizer\obj\x86\Debug\organizer.Properties.Resources.resources
+c:\users\yasura\documents\visual studio 2010\Projects\organizer\organizer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\yasura\documents\visual studio 2010\Projects\organizer\organizer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\yasura\documents\visual studio 2010\Projects\organizer\organizer\obj\x86\Debug\organizer.exe
+c:\users\yasura\documents\visual studio 2010\Projects\organizer\organizer\obj\x86\Debug\organizer.pdb
+C:\Users\Yasura\Documents\Visual Studio 2010\Projects\organizer\organizer\obj\x86\Debug\organizer.Form2.resources
+C:\Users\Yasura\Documents\Visual Studio 2010\Projects\organizer\organizer\bin\Debug\organizer.exe.manifest
+C:\Users\Yasura\Documents\Visual Studio 2010\Projects\organizer\organizer\bin\Debug\organizer.application
+C:\Users\Yasura\Documents\Visual Studio 2010\Projects\organizer\organizer\obj\x86\Debug\organizer.exe.manifest
+C:\Users\Yasura\Documents\Visual Studio 2010\Projects\organizer\organizer\obj\x86\Debug\organizer.application
